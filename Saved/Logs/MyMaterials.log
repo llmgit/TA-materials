@@ -1,0 +1,1483 @@
+﻿Log file open, 07/25/19 22:38:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyMaterials
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.251938
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files (x86)/Epic Games/e422/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.25-14.38.02:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:916][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:917][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.25-14.38.02:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.25-14.38.02:918][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.25-14.38.02:918][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.25-14.38.02:918][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.25-14.38.02:923][  0]LogHAL: Display: Platform has ~ 16 GB [17114365952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.25-14.38.02:924][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.25-14.38.02:924][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal_projects/MyMaterials/Saved/Config/Windows/Engine.ini]
+[2019.07.25-14.38.02:924][  0]LogInit: Computer: AGG17ESGP5FLXR5
+[2019.07.25-14.38.02:924][  0]LogInit: User: Administrator
+[2019.07.25-14.38.02:924][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.25-14.38.02:924][  0]LogInit: High frequency timer resolution =4.101558 MHz
+[2019.07.25-14.38.02:925][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.25-14.38.02:925][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.25-14.38.02:925][  0]LogMemory: Process Physical Memory: 96.40 MB used, 96.40 MB peak
+[2019.07.25-14.38.02:925][  0]LogMemory: Process Virtual Memory: 90.63 MB used, 90.63 MB peak
+[2019.07.25-14.38.02:925][  0]LogMemory: Physical Memory: 4107.63 MB used,  12213.90 MB free, 16321.53 MB total
+[2019.07.25-14.38.02:925][  0]LogMemory: Virtual Memory: 527.38 MB used,  134217200.00 MB free, 134217728.00 MB total
+[2019.07.25-14.38.02:936][  0]LogInit: Using OS detected language (zh-CN).
+[2019.07.25-14.38.02:936][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.07.25-14.38.02:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.07.25-14.38.02:963][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.07.25-14.38.02:964][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.07.25-14.38.02:981][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.25-14.38.02:998][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.25-14.38.02:998][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.25-14.38.03:096][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.25-14.38.03:096][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.25-14.38.03:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.07.25-14.38.03:135][  0]LogD3D11RHI:       4020/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.25-14.38.03:136][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.25-14.38.03:136][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.25-14.38.03:136][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.25-14.38.03:139][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.25-14.38.03:139][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.25-14.38.03:139][  0]LogWindows: EnumDisplayDevices:
+[2019.07.25-14.38.03:139][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.07.25-14.38.03:139][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.07.25-14.38.03:139][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.07.25-14.38.03:139][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.07.25-14.38.03:139][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.25-14.38.03:139][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.07.25-14.38.03:139][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.07.25-14.38.03:139][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.07.25-14.38.03:140][  0]LogRHI: Texture pool is 2814 MB (70% of 4020 MB)
+[2019.07.25-14.38.03:166][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.25-14.38.03:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-14.38.03:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-14.38.03:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-14.38.03:185][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.25-14.38.03:393][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.25-14.38.03:401][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.25-14.38.03:410][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.25-14.38.03:419][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.25-14.38.03:428][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.25-14.38.03:437][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.25-14.38.03:445][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.25-14.38.03:454][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.25-14.38.03:458][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.25-14.38.03:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.25-14.38.03:514][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.25-14.38.03:554][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.25-14.38.03:554][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.25-14.38.03:586][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.25-14.38.03:586][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.25-14.38.03:595][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.25-14.38.03:603][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.25-14.38.03:612][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.25-14.38.03:621][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.25-14.38.03:651][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.25-14.38.03:651][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.25-14.38.03:651][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.25-14.38.03:655][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.25-14.38.03:679][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (D:/unreal_projects/MyMaterials/Intermediate/Shaders/WorkingDirectory/3592/).
+[2019.07.25-14.38.03:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/06C4A1D046211174476725932AAE137E/'.
+[2019.07.25-14.38.03:680][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.25-14.38.03:680][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.25-14.38.03:680][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.25-14.38.04:091][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.25-14.38.04:142][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.25-14.38.04:143][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.25-14.38.04:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/unreal_projects/MyMaterials/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.25-14.38.04:143][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.25-14.38.04:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/unreal_projects/MyMaterials/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.25-14.38.04:143][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.25-14.38.04:154][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.25-14.38.04:156][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.07.25-14.38.04:168][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.25-14.38.04:168][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.25-14.38.04:168][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.25-14.38.04:187][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.25-14.38.04:188][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.25-14.38.04:188][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.25-14.38.04:252][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2019.07.25-14.38.04:481][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.25-14.38.04:576][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.25-14.38.04:576][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.25-14.38.04:576][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.25-14.38.04:576][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.25-14.38.04:576][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.25-14.38.04:583][  0]LogNetVersion: MyMaterials 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1876522009)
+[2019.07.25-14.38.04:999][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 4 prioritized culture(s) in 0.148296 seconds
+[2019.07.25-14.38.05:003][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.25-14.38.05:003][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.25-14.38.05:003][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.25-14.38.05:536][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.25-14.38.05:549][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.25-14.38.05:724][  0]SourceControl: 源码控制已禁用
+[2019.07.25-14.38.05:724][  0]SourceControl: 源码控制已禁用
+[2019.07.25-14.38.05:725][  0]SourceControl: 源码控制已禁用
+[2019.07.25-14.38.05:725][  0]SourceControl: 源码控制已禁用
+[2019.07.25-14.38.05:843][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.25-14.38.05:893][  0]LogOcInput: OculusInput pre-init called
+[2019.07.25-14.38.07:565][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.07.25-14.38.07:565][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.07.25-14.38.07:566][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.07.25-14.38.07:566][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.07.25-14.38.07:708][  0]LogEngine: Initializing Engine...
+[2019.07.25-14.38.07:709][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.25-14.38.07:710][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.25-14.38.07:861][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.25-14.38.07:868][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.25-14.38.07:885][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-14.38.07:910][  0]LogInit: FAudioDevice initialized.
+[2019.07.25-14.38.07:910][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.25-14.38.07:980][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.25-14.38.07:983][  0]LogInit: Texture streaming: Enabled
+[2019.07.25-14.38.07:995][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.25-14.38.08:004][  0]LogInit: Transaction tracking system initialized
+[2019.07.25-14.38.08:016][  0]BlueprintLog: New page: 编辑器加载
+[2019.07.25-14.38.08:056][  0]LocalizationService: 本地化服务已禁用
+[2019.07.25-14.38.08:248][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/MyMaterials/Content/' took 0.01s
+[2019.07.25-14.38.08:248][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.25-14.38.08:248][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.25-14.38.09:175][  0]SourceControl: 源码控制已禁用
+[2019.07.25-14.38.09:175][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.25-14.38.09:176][  0]LightingResults: New page: 光照构建
+[2019.07.25-14.38.09:177][  0]MapCheck: New page: 地图检测
+[2019.07.25-14.38.09:177][  0]LightingResults: New page: 光照构建
+[2019.07.25-14.38.09:198][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.07.25-14.38.09:250][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.25-14.38.09:255][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.25-14.38.09:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.07.25-14.38.09:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.25-14.38.09:276][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.071毫秒完成。
+[2019.07.25-14.38.09:276][  0]LogFileHelpers: Loading map 'Template_Default' took 0.100
+[2019.07.25-14.38.09:340][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.07.25-14.38.09:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-14.38.09:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-14.38.09:436][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-14.38.09:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-14.38.09:452][  0]LogCollectionManager: Loaded 0 collections in 0.000872 seconds
+[2019.07.25-14.38.09:513][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/MyMaterials/Saved/Collections/' took 0.01s
+[2019.07.25-14.38.09:513][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/MyMaterials/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.07.25-14.38.09:513][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/MyMaterials/Content/Collections/' took 0.01s
+[2019.07.25-14.38.09:513][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.25-14.38.09:538][  0]LogContentBrowser: Native class hierarchy populated in 0.0233 seconds. Added 2865 classes and 728 folders.
+[2019.07.25-14.38.09:553][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.25-14.38.09:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-14.38.09:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.25-14.38.09:655][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.07.25-14.38.09:685][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.25-14.38.09:688][  0]LogSlate: Took 0.001537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.07.25-14.38.09:689][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.25-14.38.09:694][  0]LogSlate: Took 0.000654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.25-14.38.09:746][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.07.25-14.38.09:844][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.25-14.38.09:844][  0]LogLoad: (Engine Initialization) Total time: 8.22 seconds
+[2019.07.25-14.38.09:844][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.25-14.38.09:868][  0]LogAssetRegistry: Asset discovery search completed in 5.6378 seconds
+[2019.07.25-14.38.09:870][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.25-14.38.09:870][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2019.07.25-14.38.09:872][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.25-14.38.09:916][  0]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.25-14.38.11:979][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-14.38.35:140][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-14.38.35:300][ 39]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.25-14.38.35:370][ 39]LogAIModule: Creating AISystem for world MainMap
+[2019.07.25-14.38.35:376][ 39]LogAssetEditorManager: Opening Asset editor for World /Game/MainMap.MainMap
+[2019.07.25-14.38.35:395][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.07.25-14.38.35:396][ 39]Cmd: MAP LOAD FILE="D:/unreal_projects/MyMaterials/Content/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.25-14.38.35:396][ 39]LightingResults: New page: 光照构建
+[2019.07.25-14.38.35:397][ 39]LoadErrors: New page: 正在加载地图： MainMap.umap
+[2019.07.25-14.38.35:397][ 39]MapCheck: New page: 地图检测
+[2019.07.25-14.38.35:397][ 39]LightingResults: New page: 光照构建
+[2019.07.25-14.38.35:417][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.25-14.38.35:420][ 39]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.25-14.38.35:440][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.07.25-14.38.35:447][ 39]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.25-14.38.35:447][ 39]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.052毫秒完成。
+[2019.07.25-14.38.35:447][ 39]LogFileHelpers: Loading map 'MainMap' took 0.052
+[2019.07.25-14.38.35:459][ 39]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '光 (U+5149)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.07.25-14.38.59:655][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-14.39.01:087][ 84]Cmd: TRANSACTION UNDO
+[2019.07.25-14.39.01:087][ 84]LogEditorTransaction: Undo 移动Actors
+[2019.07.25-14.39.20:066][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere9)
+[2019.07.25-14.39.22:143][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2019.07.25-14.40.01:784][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere9)
+[2019.07.25-14.40.10:497][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2019.07.25-14.40.12:607][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2019.07.25-14.44.38:144][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c62d91bf70 [can pipeline])
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.51.163) port 443 (#2))
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.07.25-14.48.10:133][837]LogHttp: Warning: 000001C63E8579C0: libcurl info message cache 7 (Closing connection 2)
+[2019.07.25-14.48.10:141][838]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.25-14.48.35:149][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.07.25-14.48.35:152][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="D:/unreal_projects/MyMaterials/Saved/Autosaves/Game/MainMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.25-14.48.35:238][829]LogSavePackage: Moving 'D:/unreal_projects/MyMaterials/Saved/MainMap_Auto1089F663841C569C083528E982CACC570.tmp' to 'D:/unreal_projects/MyMaterials/Saved/Autosaves/Game/MainMap_Auto1.umap'
+[2019.07.25-14.48.35:240][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMap' took 0.109
+[2019.07.25-14.48.35:240][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: libcurl info message cache 1 (Closing connection 3)
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.25-14.52.09:880][585]LogHttp: Warning: 000001C67A0F1A80: libcurl info message cache 4 (Closing connection 4)
+[2019.07.25-14.52.09:888][586]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c62d91bf70 [can pipeline])
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.212.28) port 443 (#9))
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.07.25-15.08.10:133][789]LogHttp: Warning: 000001C67A0F1940: libcurl info message cache 7 (Closing connection 9)
+[2019.07.25-15.08.10:142][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.25-15.10.07:656][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.10.39:335][681]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.10.39:381][681]LogAssetEditorManager: Opening Asset editor for Material /Game/water/M_water.M_water
+[2019.07.25-15.10.39:384][681]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.10.39:651][681]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.10.39:665][681]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.10.39:730][681]LogSlate: Took 0.000926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.25-15.10.40:022][692]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.10.41:218][767]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.10.42:587][873]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.10.42:587][873]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.10.42:587][873]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.10.42:587][873]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.11.07:348][810]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.07:375][811]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.11.07:937][852]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.11.09:199][942]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.11.09:199][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.11.09:199][942]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.11.09:199][942]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.11.16:364][798]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.16:397][799]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.11.16:862][833]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.11.18:216][926]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.11.18:217][926]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.11.18:217][926]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.11.18:217][926]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.11.21:501][319]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.21:512][319]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.11.21:537][320]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.11.21:967][347]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.11.23:306][436]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.11.23:306][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.11.23:306][436]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.11.23:306][436]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.11.35:374][854]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.35:401][855]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.11.35:406][855]LogSlate: Took 0.000797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.25-15.11.35:866][889]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.11.37:181][981]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.11.37:181][981]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.11.37:181][981]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.11.37:181][981]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.11.59:084][589]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.59:096][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.11.59:110][589]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.11.59:124][589]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.59:273][603]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.11.59:434][611]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.00:060][650]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.01:351][731]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.01:351][731]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.01:351][731]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.01:351][731]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.10:980][863]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.10:994][863]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.11:018][863]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.12.11:024][863]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.12.11:208][872]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.11:871][913]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.12:723][964]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.12:723][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.12:723][964]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.12:723][964]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.19:540][749]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.19:555][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.19:581][749]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.12.20:304][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.22:765][ 23]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.22:765][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.22:765][ 23]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.22:765][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.25:586][353]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.25:613][354]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.26:086][386]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.27:359][473]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.27:359][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.27:359][473]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.27:359][473]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.32:651][ 90]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.32:665][ 90]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.32:667][ 90]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.12.33:381][132]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.34:481][206]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.34:494][206]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.12.34:507][206]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.35:231][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.36:300][313]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.36:300][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.36:300][313]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.36:300][313]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.45:268][364]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.07.25-15.12.45:273][364]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.45:462][374]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.45:957][404]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.47:426][526]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.47:426][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.47:426][526]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.47:426][526]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.48:755][682]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.48:766][682]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.48:804][683]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.49:234][710]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.54:897][317]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.54:932][318]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.55:364][348]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.56:731][437]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.56:731][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.56:731][437]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.56:731][437]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.12.56:747][438]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.12.56:787][439]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.12.57:233][469]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.12.58:504][550]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.12.58:504][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.12.58:504][550]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.12.58:504][550]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.13.51:114][785]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.13.51:145][786]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.13.51:693][824]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.13.52:376][864]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.13.52:419][865]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.13.53:018][903]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.13.54:308][985]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.13.54:308][985]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.13.54:308][985]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.13.54:308][985]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.13.56:240][212]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.13.56:251][212]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.07.25-15.13.56:274][213]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.13.57:064][265]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.13.58:158][337]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.13.58:158][337]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.13.58:158][337]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.13.58:158][337]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.14.01:833][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.07.25-15.14.04:055][  3]LogSlate: Window '取色器' being destroyed
+[2019.07.25-15.14.05:815][210]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.14.05:826][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.14.05:836][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.14.05:838][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.14.05:871][210]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.14.06:097][221]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.14.06:790][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.14.08:105][351]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.25-15.14.08:105][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.25-15.14.08:105][351]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.14.08:105][351]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.14.15:524][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.14.15:536][205]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.14.15:538][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.14.16:226][244]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.14.17:238][307]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.14.17:238][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.14.17:238][307]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.14.17:238][307]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.14.24:381][141]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.14.24:414][142]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.14.24:893][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.14.26:952][356]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.14.26:952][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.14.26:952][356]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.14.26:952][356]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.14.54:629][301]LogSlate: Window '取色器' being destroyed
+[2019.07.25-15.14.58:017][686]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.14.58:042][687]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.14.58:585][731]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.14.59:862][816]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.14.59:862][816]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.14.59:862][816]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.14.59:862][816]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.15.00:053][837]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.15.00:076][838]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.15.00:505][870]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.15.01:719][956]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.15.01:719][956]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.15.01:719][956]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.15.01:720][956]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.16.24:706][693]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.24:719][693]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.24:737][694]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.25:354][738]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.26:734][826]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.16.26:734][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.16.26:734][826]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.16.26:734][826]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.16.28:551][ 32]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.28:562][ 32]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.28:581][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.29:094][ 67]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.30:433][151]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.16.30:433][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.16.30:433][151]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.16.30:433][151]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.16.35:607][749]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.35:619][749]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.35:638][750]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.36:122][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.37:461][868]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.16.37:461][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.16.37:461][868]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.16.37:461][868]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.16.39:056][ 47]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.39:067][ 47]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.39:087][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.39:576][ 81]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.41:175][203]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.16.41:175][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.16.41:175][203]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.16.41:175][203]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.16.45:099][661]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.45:122][663]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.45:559][693]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.46:493][751]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.46:507][751]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.46:710][761]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.47:182][791]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.47:835][830]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.47:851][830]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.16.48:054][841]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.16.48:515][871]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.16.49:868][957]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.16.49:868][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.16.49:868][957]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.16.49:868][957]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.17.06:584][906]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.06:601][906]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.06:603][906]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.07:420][956]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.09:078][ 98]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.09:092][ 98]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.09:092][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.09:805][138]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.10:867][198]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.07.25-15.17.10:867][198]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.07.25-15.17.10:867][198]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.25-15.17.10:867][198]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.25-15.17.12:368][374]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.12:377][374]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.12:856][403]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.25-15.17.14:294][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.25-15.17.29:395][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.17.31:275][455]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.31:289][455]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.31:291][455]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.31:794][488]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.31:813][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.32:119][504]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.32:140][504]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.32:285][511]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.33:052][555]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.34:129][615]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.34:138][615]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.34:144][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.34:503][636]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.34:522][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.34:686][644]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.34:801][651]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.34:819][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.35:065][665]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.35:667][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.35:729][709]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.35:748][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.36:046][723]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.36:230][735]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.36:251][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.36:342][739]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.36:704][764]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.36:723][764]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.37:042][779]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.37:719][816]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.38:376][850]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.38:398][850]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.38:426][850]LogSlate: Window '取色器' being destroyed
+[2019.07.25-15.17.38:668][864]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.39:343][904]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.25-15.17.40:576][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.25-15.17.40:925][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.40:930][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.40:934][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.40:961][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.40:983][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.40:988][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.40:994][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:023][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:047][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:054][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:059][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:091][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:114][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:120][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:126][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:156][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:179][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:186][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:193][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:223][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:243][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:249][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:255][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:286][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:310][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:317][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:323][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:353][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:370][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:389][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:421][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:428][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:434][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:463][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:487][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:493][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:499][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:530][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:552][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:558][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:564][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:595][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:618][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:625][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:631][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:662][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:684][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:691][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:696][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:724][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:745][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:750][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:756][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:786][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:809][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:816][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:822][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:853][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:877][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.41:883][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.41:890][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:920][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:938][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.41:962][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.41:996][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.42:001][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.42:007][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.42:035][ 14]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.42:573][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.42:744][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.42:751][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.42:758][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.42:789][ 42]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.42:836][ 43]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.42:842][ 43]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.42:848][ 43]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.42:877][ 43]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.42:925][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.42:931][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.42:938][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.42:968][ 44]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:006][ 45]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:030][ 45]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:063][ 45]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:068][ 45]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:074][ 45]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:103][ 45]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:613][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:619][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:626][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:655][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:678][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:685][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:692][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:722][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:746][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:752][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:758][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:789][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:812][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:819][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:826][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:857][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:880][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:886][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:892][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:921][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.43:944][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.43:950][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.43:956][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.43:986][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:007][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:012][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:018][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:048][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:072][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:078][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:084][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:114][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:133][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:156][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:188][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:194][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:199][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:227][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:250][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:256][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:262][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:294][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:317][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:324][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:330][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:361][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:383][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:390][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:397][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:426][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:444][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.44:467][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:501][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.44:508][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.44:515][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.44:546][ 75]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:033][ 93]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.45:154][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.45:161][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.45:167][ 98]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.45:167][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:195][ 98]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:242][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.45:249][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.45:256][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:286][ 99]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:340][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.45:347][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.45:353][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:382][100]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:437][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.45:443][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.45:449][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:479][101]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:518][103]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.45:539][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:572][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.45:579][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.45:586][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.45:615][103]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:102][131]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.46:227][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:233][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:240][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:268][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:293][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:299][137]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.46:299][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:305][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:333][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:356][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:363][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:370][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:401][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:423][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:429][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:434][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:465][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:482][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:500][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:532][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:538][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:544][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:574][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:596][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:602][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:608][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:638][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:662][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:668][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:674][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:704][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:727][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:734][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:740][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:769][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:787][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:811][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:847][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:854][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:860][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:890][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:905][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:911][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:918][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.46:947][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.46:969][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.46:975][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.46:981][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:012][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:029][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:047][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:079][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:086][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:092][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:122][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:143][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:148][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:153][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:184][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:208][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:213][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:219][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:249][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:271][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:275][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:281][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:310][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:325][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:331][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:338][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:366][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:385][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:404][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:438][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:445][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:451][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:481][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:503][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:508][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:513][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:542][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:564][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:570][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:577][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:608][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:631][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:636][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:642][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:672][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:688][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:706][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:740][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:745][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:752][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:781][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:803][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:808][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:814][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:844][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:868][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:873][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:879][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:908][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:932][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.47:939][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.47:947][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.47:976][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.47:993][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:011][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:045][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:052][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:057][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:087][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:111][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:116][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:122][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:151][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:169][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:175][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:180][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:211][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:233][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:240][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:247][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:278][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:293][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:313][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:346][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:353][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:358][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:388][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:412][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:419][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:426][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:456][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:479][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:484][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:489][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:518][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:542][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:548][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:553][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:582][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:599][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.48:618][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:652][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.48:658][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.48:664][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.48:692][137]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.49:204][162]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.49:815][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.49:934][202]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.49:940][202]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.49:947][202]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.49:976][202]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:059][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:065][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:070][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:097][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:121][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:128][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:134][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:166][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:188][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:194][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:199][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:231][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:253][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:258][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:264][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:295][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:313][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:331][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:364][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:370][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:376][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:406][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:430][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:437][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:444][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:473][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:498][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:505][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:510][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:539][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:562][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:569][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:574][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:603][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:617][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:636][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:671][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:676][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:682][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:711][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:734][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:741][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:748][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:778][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:801][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:806][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:811][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:842][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:864][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:869][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:874][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:902][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:920][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.50:937][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.50:969][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.50:975][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.50:981][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.51:011][205]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.51:608][236]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.52:245][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.52:572][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.52:576][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.52:582][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:613][290]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.52:660][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.52:666][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.52:672][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:701][292]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.52:729][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.52:735][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.52:741][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:772][292]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.52:795][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.52:802][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.52:808][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:838][292]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.52:855][292]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.52:874][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:907][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.52:913][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.52:919][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.52:948][292]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.53:347][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.53:354][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.53:361][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.53:391][305]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.53:415][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.25-15.17.53:421][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.25-15.17.53:427][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.25-15.17.53:457][305]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.53:472][305]LogSlate: Window '取色器' being destroyed
+[2019.07.25-15.17.54:202][345]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.54:853][385]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.25-15.17.56:256][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.25-15.17.57:495][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.17.57:629][625]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.17.57:647][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.17.58:140][657]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.25-15.17.59:499][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.25-15.18.54:426][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.18.54:534][143]LogMaterialEditor: Applying material M_water
+[2019.07.25-15.18.54:837][143]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.18.54:879][143]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.25-15.18.54:899][143]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.18.54:917][143]LogMaterial: Display: Missing cached shader map for material M_water, compiling. 
+[2019.07.25-15.18.54:954][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.07.25-15.18.54:962][143]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.25-15.18.56:327][143]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.25-15.18.56:327][143]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.25-15.18.56:336][143]TextureStreamingBuild: Display: Compiling optional shaders took 1.382 seconds.
+[2019.07.25-15.18.56:365][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.25-15.18.56:917][176]LogMaterialEditor: Saving and Compiling material M_water
+[2019.07.25-15.18.58:615][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/water/M_water" FILE="D:/unreal_projects/MyMaterials/Content/water/M_water.uasset" SILENT=true
+[2019.07.25-15.18.58:626][176]LogSavePackage: Moving 'D:/unreal_projects/MyMaterials/Saved/M_waterEF72B61D4726D416F0A710B71E8F24B1.tmp' to 'D:/unreal_projects/MyMaterials/Content/water/M_water.uasset'
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.25-15.18.58:637][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.25-15.18.58:951][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.18.59:094][218]LogSlate: Window 'M_water' being destroyed
+[2019.07.25-15.18.59:097][218]LogSlate: Window 'M_water' being destroyed
+[2019.07.25-15.19.03:562][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.19.05:916][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.19.10:361][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.19.17:732][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.19.22:058][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2019.07.25-15.19.23:072][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.19.25:202][269]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/water/M_water_Inst.M_water_Inst
+[2019.07.25-15.19.25:283][269]LogRenderer: Reallocating scene render targets to support 1208x808 Format 10 NumSamples 1 (Frame:1).
+[2019.07.25-15.19.47:550][485]LogSlate: Window '取色器' being destroyed
+[2019.07.25-15.19.49:885][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/water/M_water_Inst" FILE="D:/unreal_projects/MyMaterials/Content/water/M_water_Inst.uasset" SILENT=true
+[2019.07.25-15.19.49:906][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.07.25-15.19.49:911][760]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2019.07.25-15.19.49:931][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.07.25-15.19.49:939][760]LogSavePackage: Moving 'D:/unreal_projects/MyMaterials/Saved/M_water_Inst8EE9A3E445039D94B92784AEDBE4AE3F.tmp' to 'D:/unreal_projects/MyMaterials/Content/water/M_water_Inst.uasset'
+[2019.07.25-15.20.01:743][923]LogSlate: Window 'M_water_Inst' being destroyed
+[2019.07.25-15.20.01:744][923]LogSlate: Window 'M_water_Inst' being destroyed
+[2019.07.25-15.20.14:323][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.25-15.20.20:474][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2019.07.25-15.20.24:813][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2019.07.25-15.20.40:710][557]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.25-15.21.00:222][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.21.22:085][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2019.07.25-15.21.29:005][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-15.21.58:313][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PBR/M_pbr" FILE="D:/unreal_projects/MyMaterials/Content/PBR/M_pbr.uasset" SILENT=true
+[2019.07.25-15.21.58:321][337]LogSavePackage: Moving 'D:/unreal_projects/MyMaterials/Saved/M_pbrEFE066074499B09D218B2B96724F34F4.tmp' to 'D:/unreal_projects/MyMaterials/Content/PBR/M_pbr.uasset'
+[2019.07.25-15.22.48:560][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.07.25-15.22.48:560][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="D:/unreal_projects/MyMaterials/Saved/Autosaves/Game/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.25-15.22.48:642][112]LogSavePackage: Moving 'D:/unreal_projects/MyMaterials/Saved/MainMap_Auto2B50327E443AE05D452BBDC9FF72CC6A2.tmp' to 'D:/unreal_projects/MyMaterials/Saved/Autosaves/Game/MainMap_Auto2.umap'
+[2019.07.25-15.22.48:643][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMap' took 0.103
+[2019.07.25-15.22.48:643][112]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2019.07.25-15.40.10:738][189]LogHttp: Warning: 000001C67A0F2980: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.07.25-15.40.10:738][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c62d91bf70 [can pipeline])
+[2019.07.25-15.40.10:738][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.07.25-15.40.10:738][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.186.239) port 443 (#21))
+[2019.07.25-15.40.10:739][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.07.25-15.40.10:739][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.25-15.40.10:739][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.25-15.40.10:739][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.07.25-15.40.10:739][189]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 7 (Closing connection 21)
+[2019.07.25-15.40.11:077][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c62d91bf70 [can pipeline])
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#22))
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 7 (Closing connection 22)
+[2019.07.25-15.44.10:485][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c62d91bf70 [can pipeline])
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#26))
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: 000001C67A0F2980: libcurl info message cache 7 (Closing connection 26)
+[2019.07.25-15.55.37:491][954]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F7B65A4-4D5D-F8AE-CE37-6AA397E4D648%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f042544bd7c8e65cc889e1d779ec5%7C4d46f8cfda39499384e3703b1eedafe2%7Cbd6f0b2a-40d8-4a1b-868a-05d299adc4eb&AppEnvironment=datacollector-binary&UploadType=eteventstream
